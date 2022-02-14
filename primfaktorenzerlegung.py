@@ -18,4 +18,4 @@ def divisors(integer):
     return solution
 
 
-print(divisors(12))
+print(divisors(106))
